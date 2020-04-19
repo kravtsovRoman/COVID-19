@@ -4,6 +4,9 @@
 
 .card {
   margin: 0 2%!important;
+  @media (max-width: 770px) {
+    margin: 2% 0 !important;
+  }
   &.infected {
     border-bottom: 10px solid rgba( 0, 0, 255, .5)
   }

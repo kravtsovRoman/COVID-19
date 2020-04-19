@@ -5,5 +5,16 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    @media (max-width: 770px) {
+      margin: 0 10px;
+    }
+  
+    .image {
+      width: 370px;
+      margin-top: 50px;
+      @media (max-width: 770px) {
+        width: 100%;
+      }
+    }
   }
 }
