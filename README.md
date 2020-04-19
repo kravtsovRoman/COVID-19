@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/7QpKsCX/image.png)
+![](https://i.imgur.com/UcwJiWv.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
